@@ -1,2 +1,1 @@
-# pacma
-pacman
+#readme
